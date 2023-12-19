@@ -24,24 +24,24 @@ If you know of any more cool mirrored unicode, please feel free to pull request!
 
 <br/>
 
-<div style="text-align: right">
+<div dir="rtl">
 ¡ʇƨǝnbǝɹ llnd oʇ ǝǝɹɟ lǝǝɟ ǝƨɐǝld 'ǝpoɔᴉun pǝoɹɹᴉɯ looɔ ǝɹoɯ ʎuɐ ɟo ʍouʞ noʎ ɟI
 </div>
 
-<h2 style="text-align: right">
+<h2 dir="rtl">
 ¡ǝɯoɔlǝM ƨuoᴉʇnqᴉɹʇuoↃ
 </h2>
 
-<div style="text-align: right">
+<div dir="rtl">
 ˙ʎǝʞʇoɥ puɐ uoᴉʇɔunɟ ʇxǝʇ pǝʇɥƃᴉlɥƃᴉɥ dᴉlℲ
 </div>
 
-<h2 style="text-align: right">
+<h2 dir="rtl">
 :ƨǝɹnʇɐǝɟ pǝuuɐlԀ 
 </h2>
 
-<div style="text-align: right">
-<ul style="direction: rtl">
+<div dir="rtl">
+<ul dir="rtl">
 <li>ƨpɹɐoqʎǝʞ ⅄⊥ᴚƎMΌ ɥƨᴉlƃuƎ uo ǝlqɐlᴉɐʌɐ uoᴉʇɐnʇɔund ʇƨoW</li>
 <li>6-0 ƨlɐɹǝɯnu ɔᴉqɐɹ∀</li>
 <li>ƨǝƨɐɔ ɹǝddn puɐ ɹǝʍol ɥʇoq uᴉ z-ɐ ʇǝqɐɥdlɐ uᴉʇɐ⅂ pɹɐpuɐʇƧ</li>
@@ -49,7 +49,7 @@ If you know of any more cool mirrored unicode, please feel free to pull request!
 ƨɹǝʇɔɐɹɐɥɔ pǝʇɹoddnƧ
 </div>
 
-<div style="text-align: right">
+<div dir="rtl">
 ˙ʇxǝʇ pǝddᴉlɟ
 ƃuᴉʇᴉɹʍ ɟo ʇno puɐ uᴉ ǝlƃƃoʇ oʇ <kbd>ƎↃ∀ԀƧ + ⊥ℲIHƧ + ⊥⅂∀</kbd> ƨƨǝɹd 'ʇlnɐɟǝp ʎᗺ
 <br/>
@@ -59,6 +59,6 @@ If you know of any more cool mirrored unicode, please feel free to pull request!
 
 ---
 
-<h1 style="text-align: right">
+<h1 dir="rtl">
 ʇxǝʇ-pǝddᴉlɟ-ʞɥɐ
 </h1>
