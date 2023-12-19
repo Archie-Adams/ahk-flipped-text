@@ -53,7 +53,7 @@ If you know of any more cool mirrored unicode, please feel free to pull request!
 
 <div dir="rtl">
 ʇxǝʇ pǝddᴉlɟ
-ƃuᴉʇᴉɹʍ ɟo ʇno puɐ uᴉ ǝlƃƃoʇ oʇ <kbd>ƎↃ∀ԀƧ + ⊥ℲIHƧ + ⊥⅂∀</kbd> ƨƨǝɹd 'ʇlnɐɟǝp ʎᗺ˙
+ƃuᴉʇᴉɹʍ ɟo ʇno puɐ uᴉ ǝlƃƃoʇ oʇ <kbd>ƎↃ∀ԀƧ + ⊥ℲIHƧ + ∀⅂⊥</kbd> ƨƨǝɹd 'ʇlnɐɟǝp ʎᗺ˙
 <br/>
 <br/>
 ⊥ʎǝʞʇoɥ ɐ ƃuᴉƨn ʇxɔǝʇ pǝddᴉlɟ ǝdʎʇ ʎlᴉƨɐǝ noʎ ƨʇǝl ʇdᴉɹɔƨ ƨᴉɥ˙
